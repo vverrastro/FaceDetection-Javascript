@@ -1,1 +1,1 @@
-# FaceDetection-Javascript
+# FaceDetection Javascript
